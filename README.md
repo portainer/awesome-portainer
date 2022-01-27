@@ -14,4 +14,4 @@
 # Articles
 
 ## Raspberry Pi 
-- [Portainer on rasberry pi 4](https://sustainablewww.org/principles/how-to-set-up-portainer-on-raspberry-pi-4)
+- [Portainer on Raspberry Pi 4](https://sustainablewww.org/principles/how-to-set-up-portainer-on-raspberry-pi-4)
