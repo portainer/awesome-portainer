@@ -1,2 +1,3 @@
-# awesome-portainer
-A curated list of Portainer resources, tutorials, videos
+# Awesome Portainer
+
+> A curated list of Portainer resources, tutorials, videos
