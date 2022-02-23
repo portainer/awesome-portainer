@@ -20,3 +20,4 @@
 # Projects
 - [Docker Swarm + Traefik + Portainer infrastructure template with Ansible](
   https://github.com/sergioisidoro/honey-swarm)
+- [PortainerSSH - a tool for executing remote shells for apps running inside Portainer](https://github.com/devbranch-vadym/portainerssh)
