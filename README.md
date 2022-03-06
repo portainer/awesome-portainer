@@ -8,6 +8,7 @@
 
 - [Articles](#articles)
   - [Raspberry Pi ](#raspberry-pi)
+- [Projects](#projects)
 
 <!-- /TOC -->
 
@@ -15,3 +16,8 @@
 
 ## Raspberry Pi 
 - [Portainer on Raspberry Pi 4](https://sustainablewww.org/principles/how-to-set-up-portainer-on-raspberry-pi-4)
+
+# Projects
+- [Docker Swarm + Traefik + Portainer infrastructure template with Ansible](
+  https://github.com/sergioisidoro/honey-swarm)
+- [PortainerSSH - remote containers shell](https://github.com/devbranch-vadym/portainerssh)
