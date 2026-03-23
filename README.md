@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is no longer maintained and has been archived.
+
 # Awesome Portainer
 
 > A curated list of Portainer resources, tutorials, videos
